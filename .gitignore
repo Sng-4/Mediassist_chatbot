@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Large Model Files (Too big for GitHub)
+*.h5
+*.keras
+model/
+
+# Mac system files
+.DS_Store
+
+# User-specific settings
+.env
+.vscode/
+.idea/
