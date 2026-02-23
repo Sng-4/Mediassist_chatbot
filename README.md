@@ -194,7 +194,7 @@ Mediassist_chatbot/
 ### 1 — Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Sng-4/Mediassist_chatbot.git
 cd Mediassist_chatbot
 ```
 
